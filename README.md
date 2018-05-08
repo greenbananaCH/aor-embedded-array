@@ -13,13 +13,13 @@ A custom field/input component for [Admin-on-rest](https://github.com/marmelab/a
 Install with:
 
 ```sh
-npm install --save aor-embedded-array
+npm install --save https://github.com/greenbananaCH/aor-embedded-array.git#all_pr
 ```
 
 or
 
 ```sh
-yarn add aor-embedded-array
+yarn add https://github.com/greenbananaCH/aor-embedded-array.git#all_pr
 ```
 
 ## Usage
